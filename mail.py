@@ -10,21 +10,19 @@ from login import USERNAME, PASSWORD
 s = smtplib.SMTP(host='smtp.ucsd.edu',port=587)
 s.starttls()
 s.login(USERNAME, PASSWORD)
-fromaddr = sourceAddress
-destinations = emails
 
-for address in destinations:
+for address in emails:
     msg = MIMEMultipart()
-    msg['From'] = fromaddr
+    msg['From'] = sourceAddress
     msg['to'] = address
     msg['Subject'] = subject
     body = message
-    msg.attach(MIMEText(body, 'plain'))
+    msg.attach(MIMEText(body, 'html'))
 
     s.ehlo()
     s.ehlo()
     s.login(USERNAME, PASSWORD)
     text = msg.as_string()
-    s.sendmail(fromaddr, address, text)
+    s.sendmail(sourceAddress, address, text)
 
 s.quit()

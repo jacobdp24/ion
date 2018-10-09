@@ -8,15 +8,15 @@ config.py can contain anything you want, for now it contains:
 2. ``` message = 'some message' ```
 
 address.py **must** contain a list of strings with destination emails
-```emails = ['email@gmail.com', 'email2@ucsd.edu']```
+ ```emails = ['email@gmail.com', 'email2@ucsd.edu']```
 
 and a source address
-```sourceAddress = 'source@ucsd.edu'```
+ ```sourceAddress = 'source@ucsd.edu'```
 
 login.py **must** have USERNAME and PASSWORD variables
 where USERNAME is just the email without the @someEmailProvider.com
 
-```USERNAME = 'source'```
-```PASSWORD = 'super secret password'```
+ ```USERNAME = 'source'```
+ ```PASSWORD = 'super secret password'```
 
 

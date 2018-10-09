@@ -1,7 +1,7 @@
 # ion
 automating newsletters, first iteration, mostly for clubs at ucsd who want to reach their members.
 
-to make your own you will need mail.py along with three files: config.py, addresses.py, and login.py
+to make your own you will need mail.py along with three files, two of which will never be on github for obvious privacy reasons: config.py, addresses.py, and login.py
 
 config.py can contain anything you want, for now it contains:
 1. ``` subject = 'some subject' ```

@@ -13,7 +13,6 @@ address.py **must** contain a list of strings with destination emails and a sour
 
 login.py **must** have USERNAME and PASSWORD variables
 where USERNAME is just the email without the @someEmailProvider.com
-
 1.```USERNAME = 'source'```
 2.```PASSWORD = 'super secret password'```
 

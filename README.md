@@ -17,4 +17,8 @@ where USERNAME is just the email without the @someEmailProvider.com
 1.```USERNAME = 'source'```
 2.```PASSWORD = 'super secret password'```
 
+----
+
+at the very least, if a club wants to make their own newsletter and they log on to their .edu email through gmail the smtp server is most likely **_not_** gmail. It is probably maintained by the university, ex: smtp.university.edu
+
 

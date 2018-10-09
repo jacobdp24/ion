@@ -1,2 +1,22 @@
 # ion
-automating newsletters
+automating newsletters, first iteration, mostly for clubs at ucsd who want to reach their members.
+
+to make your own you will need mail.py along with three files: config.py, addresses.py, and login.py
+
+config.py can contain anything you want, for now it contains:
+1. ``` subject = 'some subject' ```
+2. ``` message = 'some message' ```
+
+address.py **must** contain a list of strings with destination emails
+```emails = ['email@gmail.com', 'email2@ucsd.edu']```
+
+and a source address
+```sourceAddress = 'source@ucsd.edu'```
+
+login.py **must** have USERNAME and PASSWORD variables
+where USERNAME is just the email without the @someEmailProvider.com
+
+```USERNAME = 'source'```
+```PASSWORD = 'super secret password'```
+
+

@@ -21,4 +21,6 @@ where USERNAME is just the email without the @someEmailProvider.com
 
 at the very least, if a club wants to make their own newsletter and they log on to their .edu email through gmail the smtp server is most likely **_not_** gmail. It is probably maintained by the university, ex: smtp.universityNameHere.edu
 
+Also, I am always looking to improve, so if you have any suggestions, want to help out, or go to UCSD and want to say hi, feel free to contact me
+
 

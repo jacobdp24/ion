@@ -18,6 +18,12 @@ where USERNAME is just the email without the @someEmailProvider.com
 2.```PASSWORD = 'super secret password'```
 
 ----
+TODO:
+
+Build out subscription functionaility
+
+----
+Notes to those who stumble upon this:
 
 at the very least, if a club wants to make their own newsletter and they log on to their .edu email through gmail the smtp server is most likely **_not_** gmail. It is probably maintained by the university, ex: smtp.universityNameHere.edu
 

@@ -1,24 +1,339 @@
-<body style="background-color:#000000;">
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
-<p><font color='#FFF'> Tuesday, January 15th</font></p>
-<p><font color='#FFF'> Blockchain and Cryptocurrency Club @ UCSD</font></p>
-<p><font color='#FFF'> Hey everyone!</font></p>
-<p><font color='#FFF'> Hope your Winter Break was refreshing! We will resume our meetings this Thursday, January 15th at 7pm in Torrey Pines Center South. 
-	This is right across the street from the Village at UCSD, and right next to the Sanford Consortium! Information Technology Services (ITS) have granted 
-	us some conference rooms/office space to hold our meetings. The buildings were recently renovated to enable student collaboration and we are truly thrilled and thankful to 
-	be one of the first to utilize it! Once you reach the building the door entrace to the main plaza will be right in front of the shuttle stops, from there make your way to 
-	the third floor (you will only need to go up a single floor), and walk down an open hallway to one of the doors (northwest or northeast entrance). We will be there to let you in!
-	Signs will be placed to help guide you so you don't get lost :).</font></p>
-<ul>
-	<li><p><font color='#FFF'>
-    </font></p>
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Blockchain@UCSD</title>
+	<style>
+		/* -------------------------------------
+    GLOBAL
+------------------------------------- */
+		* {
+			margin: 0;
+			font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+			box-sizing: border-box;
+			font-size: 14px;
+		}
 
-    <li><p><font color='#FFF'>- Make sure to bring your laptop and any interesting news about blockchain/cryptocurrency. Also, bring any ideas for projects you might want to start, or add them to <a href=https://docs.google.com/spreadsheets/d/1n9X3T7Tlksk3YuGIqWxJnIo76K9cHbOoZglxcv5GmSk/edit?usp=sharing> <font color="#20C20E"> this</font></a> google doc!
-    </font></p></li>
+		body {
+			-webkit-font-smoothing: antialiased;
+			-webkit-text-size-adjust: none;
+			width: 100% !important;
+			height: 100%;
+			line-height: 1.6em;
+		}
 
-    <li><p><font color='#FFF'>- Make sure to like us on Facebook <a href=https://www.facebook.com/groups/988219401317312/> <font color="#20C20E"> here</font></a> we will accept you ASAP. If you want to join the team slack, message Jacob, Brandon, Jesse, or Antonio on Facebook and we can make that happen!</font></p></li>
+		/* Let's make sure all tables have defaults */
+		table td {
+			vertical-align: top;
+		}
 
-    <li><p><font color='#FFF'>- Lastly, we always want to improve. If you are inclined to do so, submit feedback <a href=https://docs.google.com/forms/d/e/1FAIpQLSfBYtubBZ21JMuO406z4Lmo99ULik1hgKLoe6BfqSY85xmaaw/viewform/> <font color="#20C20E"> here</font></a></font></p></li>
-</ul>
-<p><font color='#FFF'> Have a great rest of week and see you all at the next GBM!</font></p>
-<p><font color='#FFF'> Cheers,</font> <br> <font color="#FFF" style="padding: 40px;" >Blockhchain and Cryptocurrency @ UCSD</font></p>
+		/* -------------------------------------
+    BODY & CONTAINER
+------------------------------------- */
+		body {
+			background-color: #f6f6f6;
+		}
+
+		.body-wrap {
+			background-color: #f6f6f6;
+			width: 100%;
+		}
+
+		.container {
+			display: block !important;
+			max-width: 600px !important;
+			margin: 0 auto !important;
+			/* makes it centered */
+			clear: both !important;
+		}
+
+		.content {
+			max-width: 600px;
+			margin: 0 auto;
+			display: block;
+			padding: 20px;
+		}
+
+		/* -------------------------------------
+    HEADER, FOOTER, MAIN
+------------------------------------- */
+		.main {
+			background-color: #181818;
+			color: #ffffff;
+			border: 1px solid #e9e9e9;
+			border-radius: 6px;
+		}
+
+		.content-wrap {
+			padding: 20px;
+		}
+
+		.content-block {
+			padding: 0 0 20px;
+		}
+
+		.header {
+			width: 100%;
+			margin-bottom: 20px;
+		}
+
+		/* -------------------------------------
+    TYPOGRAPHY
+------------------------------------- */
+
+		h1,
+		h2,
+		h3,
+		p,
+		a,
+		body {
+			color: #ffffff;
+		}
+
+		h1,
+		h2,
+		h3 {
+			font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+			margin: 40px 0 0;
+			line-height: 1.2em;
+			font-weight: 400;
+		}
+
+		h1 {
+			font-size: 32px;
+			font-weight: 500;
+			/* 1.2em * 32px = 38.4px, use px to get airier line-height also in Thunderbird, and Yahoo!, Outlook.com, AOL webmail clients */
+			/*line-height: 38px;*/
+		}
+
+		h2 {
+			font-size: 24px;
+			/* 1.2em * 24px = 28.8px, use px to get airier line-height also in Thunderbird, and Yahoo!, Outlook.com, AOL webmail clients */
+			/*line-height: 29px;*/
+		}
+
+		h3 {
+			font-size: 18px;
+			/* 1.2em * 18px = 21.6px, use px to get airier line-height also in Thunderbird, and Yahoo!, Outlook.com, AOL webmail clients */
+			/*line-height: 22px;*/
+		}
+
+		h4 {
+			font-size: 14px;
+			font-weight: 600;
+		}
+
+		p,
+		ul,
+		ol {
+			margin-bottom: 10px;
+			font-weight: normal;
+		}
+
+		p li,
+		ul li,
+		ol li {
+			margin-left: 5px;
+			list-style-position: inside;
+		}
+
+		/* -------------------------------------
+    LINKS & BUTTONS
+------------------------------------- */
+
+		.fake {
+			width: 12px;
+			height: 12px;
+			background: #000;
+			border-radius: 50%;
+			display: inline-block;
+			margin: 0 3px;
+		}
+
+		a {
+			color: #348eda;
+			text-decoration: underline;
+		}
+
+		.btn-primary {
+			text-decoration: none;
+			color: #ffffff;
+			background-color: #348eda;
+			border: solid #348eda;
+			border-width: 10px 20px;
+			line-height: 2em;
+			/* 2em * 14px = 28px, use px to get airier line-height also in Thunderbird, and Yahoo!, Outlook.com, AOL webmail clients */
+			/*line-height: 28px;*/
+			font-weight: bold;
+			text-align: center;
+			cursor: pointer;
+			display: inline-block;
+			border-radius: 5px;
+			text-transform: capitalize;
+		}
+
+		/* -------------------------------------
+    OTHER STYLES THAT MIGHT BE USEFUL
+------------------------------------- */
+		.last {
+			margin-bottom: 0;
+		}
+
+		.first {
+			margin-top: 0;
+		}
+
+		.aligncenter {
+			text-align: center;
+		}
+
+		.alignright {
+			text-align: right;
+		}
+
+		.alignleft {
+			text-align: left;
+		}
+
+		.clear {
+			clear: both;
+		}
+
+		/* -------------------------------------
+    ALERTS
+    Change the class depending on warning email, good email or bad email
+------------------------------------- */
+		.title {
+			font-size: 16px;
+			color: #000;
+			font-weight: 500;
+			padding: 8px;
+			text-align: center;
+			border-radius: 3px 3px 0 0;
+			background-color: #ffffff;
+		}
+
+		.first {
+			background-color: #F4B400;
+		}
+
+		.second {
+			background-color: #0F9D58;
+		}
+
+		.third {
+			background-color: #DB4437;
+		}
+
+		/* -------------------------------------
+    RESPONSIVE AND MOBILE FRIENDLY STYLES
+------------------------------------- */
+		@media only screen and (max-width: 640px) {
+			body {
+				padding: 0 !important;
+			}
+
+			h1,
+			h2,
+			h3,
+			h4 {
+				font-weight: 800 !important;
+				margin: 20px 0 5px !important;
+			}
+
+			h1 {
+				font-size: 22px !important;
+			}
+
+			h2 {
+				font-size: 18px !important;
+			}
+
+			h3 {
+				font-size: 16px !important;
+			}
+
+			.container {
+				padding: 0 !important;
+				width: 100% !important;
+			}
+
+			.content {
+				padding: 0 !important;
+			}
+
+			.content-wrap {
+				padding: 10px !important;
+			}
+
+			.invoice {
+				width: 100% !important;
+			}
+		}
+	</style>
+</head>
+
+<body itemscope itemtype="http://schema.org/EmailMessage">
+
+	<table class="body-wrap">
+		<tr>
+			<td></td>
+			<td class="container" width="600">
+				<div class="content">
+					<table class="main" width="100%" cellpadding="0" cellspacing="0">
+						<tr>
+							<td class="title pbutton">
+								<div class="alignright">
+									<div class="fake first"></div>
+									<div class="fake second"></div>
+									<div class="fake third"></div>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td class="content-wrap">
+								<table width="100%" cellpadding="0" cellspacing="0">
+									<tr>
+										<td class="content-block">
+											Hey everyone!
+										</td>
+									</tr>
+									<tr>
+										<td class="content-block">
+											Hope your Winter Break was refreshing! We will resume our meetings this Thursday, January 15th at 8pm in Torrey Pines Center South. 
+											This is right across the street from the Village at UCSD, and right next to the Sanford Consortium! Information Technology Services (ITS) have granted 
+											us some conference rooms/office space to hold our meetings. The buildings were recently renovated to enable student collaboration and we are truly thrilled and thankful to 
+											be one of the first to utilize it! Once you reach the building the door entrace to the main plaza will be right in front of the shuttle stops, from there make your way to 
+											the third floor (you will only need to go up a single floor), and walk down an open hallway to one of the doors (northwest or northeast entrance). We will be there to let you in!
+											Signs will be placed to help guide you so you don't get lost :).
+										</td>
+									</tr>
+									<tr>
+										<td class="content-block">
+											<ul>
+												<li>- We will be getting started with the programming language Rust, and we have some exciting hackathon opportunities to talk about!</li>
+												<li>- Make sure to bring your laptop and any interesting news about blockchain/cryptocurrency. Also, bring any ideas for projects you might want to start, or add them to <a href=https://docs.google.com/spreadsheets/d/1n9X3T7Tlksk3YuGIqWxJnIo76K9cHbOoZglxcv5GmSk/edit?usp=sharing> <font color="#20C20E"> this</font></a> google doc!</li>
+											</ul>
+										</td>
+									</tr>
+									<tr>
+										<td class="content-block">
+											Cheers,<br>
+											Blockchain@UCSD
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</td>
+			<td></td>
+		</tr>
+	</table>
+
+</body>
+
+</html>

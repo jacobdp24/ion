@@ -1,5 +1,343 @@
-subject = 'Blockchain and Cryptocurrency @ UCSD GBM 1'
+subject = 'UCSD BLOCKCHAIN AND CRYPTOCURRENCY GBM 1 1/17/19'
 
 message = '''
-<html><head><meta content="text/html; charset=UTF-8" http-equiv="content-type"><style type="text/css">@import url('https://themes.googleusercontent.com/fonts/css?kit=xTOoZr6X-i3kNg7pYrzMsg1x4-k0E_HIXubOFdbxQhsKzhWAUnPdd-i3NkA-yiRC');ul.lst-kix_rsa8287kx3fj-6{list-style-type:none}ul.lst-kix_rsa8287kx3fj-7{list-style-type:none}ul.lst-kix_rsa8287kx3fj-4{list-style-type:none}ul.lst-kix_rsa8287kx3fj-5{list-style-type:none}ul.lst-kix_rsa8287kx3fj-2{list-style-type:none}ul.lst-kix_rsa8287kx3fj-3{list-style-type:none}ul.lst-kix_rsa8287kx3fj-0{list-style-type:none}ul.lst-kix_rsa8287kx3fj-1{list-style-type:none}.lst-kix_2xmrpn1j3hut-0>li:before{content:"\0025cf  "}ul.lst-kix_rsa8287kx3fj-8{list-style-type:none}ol.lst-kix_48svtkx560bn-0{list-style-type:none}ul.lst-kix_cxroilb7cwc5-1{list-style-type:none}ul.lst-kix_cxroilb7cwc5-2{list-style-type:none}ul.lst-kix_cxroilb7cwc5-3{list-style-type:none}ul.lst-kix_cxroilb7cwc5-4{list-style-type:none}ul.lst-kix_cxroilb7cwc5-5{list-style-type:none}ul.lst-kix_cxroilb7cwc5-6{list-style-type:none}ul.lst-kix_cxroilb7cwc5-7{list-style-type:none}ul.lst-kix_cxroilb7cwc5-8{list-style-type:none}.lst-kix_cxroilb7cwc5-0>li{counter-increment:lst-ctn-kix_cxroilb7cwc5-0}ul.lst-kix_8gu3u099rm00-4{list-style-type:none}.lst-kix_e6xeke4bda98-8>li:before{content:"\0025a0  "}ul.lst-kix_8gu3u099rm00-5{list-style-type:none}ul.lst-kix_8gu3u099rm00-2{list-style-type:none}ol.lst-kix_48svtkx560bn-0.start{counter-reset:lst-ctn-kix_48svtkx560bn-0 0}ul.lst-kix_8gu3u099rm00-3{list-style-type:none}ul.lst-kix_8gu3u099rm00-0{list-style-type:none}ul.lst-kix_8gu3u099rm00-1{list-style-type:none}.lst-kix_cxroilb7cwc5-0>li:before{content:"" counter(lst-ctn-kix_cxroilb7cwc5-0,decimal) ". "}.lst-kix_e6xeke4bda98-5>li:before{content:"\0025a0  "}.lst-kix_cxroilb7cwc5-1>li:before{content:"\0025cb  "}.lst-kix_rsa8287kx3fj-8>li:before{content:"\0025a0  "}.lst-kix_cxroilb7cwc5-3>li:before{content:"\0025cf  "}ul.lst-kix_8gu3u099rm00-8{list-style-type:none}.lst-kix_e6xeke4bda98-6>li:before{content:"\0025cf  "}.lst-kix_cxroilb7cwc5-2>li:before{content:"\0025a0  "}ul.lst-kix_8gu3u099rm00-6{list-style-type:none}.lst-kix_e6xeke4bda98-7>li:before{content:"\0025cb  "}ol.lst-kix_cxroilb7cwc5-0{list-style-type:none}ul.lst-kix_8gu3u099rm00-7{list-style-type:none}ul.lst-kix_y1286lkef6ia-5{list-style-type:none}.lst-kix_cxroilb7cwc5-5>li:before{content:"\0025a0  "}ul.lst-kix_y1286lkef6ia-6{list-style-type:none}ul.lst-kix_y1286lkef6ia-3{list-style-type:none}ul.lst-kix_y1286lkef6ia-4{list-style-type:none}.lst-kix_e6xeke4bda98-0>li:before{content:"\0025cf  "}.lst-kix_48svtkx560bn-0>li{counter-increment:lst-ctn-kix_48svtkx560bn-0}ul.lst-kix_y1286lkef6ia-7{list-style-type:none}.lst-kix_cxroilb7cwc5-4>li:before{content:"\0025cb  "}.lst-kix_cxroilb7cwc5-8>li:before{content:"\0025a0  "}.lst-kix_e6xeke4bda98-1>li:before{content:"\0025cb  "}ul.lst-kix_y1286lkef6ia-8{list-style-type:none}.lst-kix_e6xeke4bda98-4>li:before{content:"\0025cb  "}ul.lst-kix_y1286lkef6ia-1{list-style-type:none}.lst-kix_cxroilb7cwc5-7>li:before{content:"\0025cb  "}.lst-kix_e6xeke4bda98-2>li:before{content:"\0025a0  "}ul.lst-kix_y1286lkef6ia-2{list-style-type:none}.lst-kix_cxroilb7cwc5-6>li:before{content:"\0025cf  "}.lst-kix_e6xeke4bda98-3>li:before{content:"\0025cf  "}ul.lst-kix_y1286lkef6ia-0{list-style-type:none}.lst-kix_y1286lkef6ia-2>li:before{content:"\0025a0  "}.lst-kix_48svtkx560bn-3>li:before{content:"\0025cf  "}.lst-kix_y1286lkef6ia-1>li:before{content:"\0025cb  "}.lst-kix_y1286lkef6ia-3>li:before{content:"\0025cf  "}.lst-kix_48svtkx560bn-2>li:before{content:"\0025a0  "}.lst-kix_48svtkx560bn-4>li:before{content:"\0025cb  "}.lst-kix_y1286lkef6ia-0>li:before{content:"\0025cf  "}.lst-kix_y1286lkef6ia-4>li:before{content:"\0025cb  "}.lst-kix_48svtkx560bn-6>li:before{content:"\0025cf  "}.lst-kix_48svtkx560bn-5>li:before{content:"\0025a0  "}.lst-kix_y1286lkef6ia-8>li:before{content:"\0025a0  "}.lst-kix_y1286lkef6ia-6>li:before{content:"\0025cf  "}.lst-kix_y1286lkef6ia-5>li:before{content:"\0025a0  "}.lst-kix_y1286lkef6ia-7>li:before{content:"\0025cb  "}.lst-kix_48svtkx560bn-0>li:before{content:"" counter(lst-ctn-kix_48svtkx560bn-0,decimal) ". "}.lst-kix_48svtkx560bn-1>li:before{content:"\0025cb  "}.lst-kix_umxqodulyvfl-6>li:before{content:"\0025cf  "}.lst-kix_umxqodulyvfl-4>li:before{content:"\0025cb  "}.lst-kix_umxqodulyvfl-8>li:before{content:"\0025a0  "}.lst-kix_umxqodulyvfl-5>li:before{content:"\0025a0  "}.lst-kix_umxqodulyvfl-7>li:before{content:"\0025cb  "}.lst-kix_umxqodulyvfl-0>li:before{content:"\0025cf  "}.lst-kix_umxqodulyvfl-1>li:before{content:"\0025cb  "}ol.lst-kix_cxroilb7cwc5-0.start{counter-reset:lst-ctn-kix_cxroilb7cwc5-0 0}.lst-kix_umxqodulyvfl-2>li:before{content:"\0025a0  "}.lst-kix_48svtkx560bn-7>li:before{content:"\0025cb  "}ul.lst-kix_umxqodulyvfl-0{list-style-type:none}.lst-kix_48svtkx560bn-8>li:before{content:"\0025a0  "}.lst-kix_umxqodulyvfl-3>li:before{content:"\0025cf  "}ul.lst-kix_e6xeke4bda98-7{list-style-type:none}ul.lst-kix_e6xeke4bda98-8{list-style-type:none}.lst-kix_rsa8287kx3fj-0>li:before{content:"\0025cf  "}ul.lst-kix_e6xeke4bda98-3{list-style-type:none}ul.lst-kix_e6xeke4bda98-4{list-style-type:none}ul.lst-kix_e6xeke4bda98-5{list-style-type:none}ul.lst-kix_e6xeke4bda98-6{list-style-type:none}.lst-kix_rsa8287kx3fj-2>li:before{content:"\0025a0  "}ul.lst-kix_e6xeke4bda98-0{list-style-type:none}.lst-kix_rsa8287kx3fj-1>li:before{content:"\0025cb  "}ul.lst-kix_e6xeke4bda98-1{list-style-type:none}ul.lst-kix_e6xeke4bda98-2{list-style-type:none}.lst-kix_rsa8287kx3fj-4>li:before{content:"\0025cb  "}.lst-kix_rsa8287kx3fj-3>li:before{content:"\0025cf  "}.lst-kix_rsa8287kx3fj-7>li:before{content:"\0025cb  "}.lst-kix_rsa8287kx3fj-6>li:before{content:"\0025cf  "}.lst-kix_rsa8287kx3fj-5>li:before{content:"\0025a0  "}.lst-kix_mxf9vopjbzq1-3>li:before{content:"\0025cf  "}.lst-kix_mxf9vopjbzq1-2>li:before{content:"\0025a0  "}.lst-kix_mxf9vopjbzq1-4>li:before{content:"\0025cb  "}ul.lst-kix_mxf9vopjbzq1-8{list-style-type:none}.lst-kix_8gu3u099rm00-8>li:before{content:"\0025a0  "}.lst-kix_mxf9vopjbzq1-7>li:before{content:"\0025cb  "}.lst-kix_8gu3u099rm00-7>li:before{content:"\0025cb  "}.lst-kix_mxf9vopjbzq1-0>li:before{content:"\0025cf  "}.lst-kix_mxf9vopjbzq1-8>li:before{content:"\0025a0  "}.lst-kix_mxf9vopjbzq1-1>li:before{content:"\0025cb  "}.lst-kix_8gu3u099rm00-4>li:before{content:"\0025cb  "}.lst-kix_8gu3u099rm00-3>li:before{content:"\0025cf  "}.lst-kix_8gu3u099rm00-5>li:before{content:"\0025a0  "}.lst-kix_8gu3u099rm00-2>li:before{content:"\0025a0  "}.lst-kix_8gu3u099rm00-6>li:before{content:"\0025cf  "}ul.lst-kix_mxf9vopjbzq1-2{list-style-type:none}ul.lst-kix_mxf9vopjbzq1-3{list-style-type:none}ul.lst-kix_mxf9vopjbzq1-0{list-style-type:none}ul.lst-kix_mxf9vopjbzq1-1{list-style-type:none}ul.lst-kix_mxf9vopjbzq1-6{list-style-type:none}ul.lst-kix_mxf9vopjbzq1-7{list-style-type:none}ul.lst-kix_mxf9vopjbzq1-4{list-style-type:none}ul.lst-kix_mxf9vopjbzq1-5{list-style-type:none}.lst-kix_2xmrpn1j3hut-4>li:before{content:"\0025cb  "}ul.lst-kix_umxqodulyvfl-7{list-style-type:none}ul.lst-kix_umxqodulyvfl-8{list-style-type:none}ul.lst-kix_umxqodulyvfl-5{list-style-type:none}ul.lst-kix_umxqodulyvfl-6{list-style-type:none}ul.lst-kix_umxqodulyvfl-3{list-style-type:none}ul.lst-kix_umxqodulyvfl-4{list-style-type:none}.lst-kix_2xmrpn1j3hut-1>li:before{content:"\0025cb  "}.lst-kix_2xmrpn1j3hut-5>li:before{content:"\0025a0  "}ul.lst-kix_umxqodulyvfl-1{list-style-type:none}ul.lst-kix_umxqodulyvfl-2{list-style-type:none}.lst-kix_8gu3u099rm00-0>li:before{content:"\0025cf  "}.lst-kix_8gu3u099rm00-1>li:before{content:"\0025cb  "}.lst-kix_2xmrpn1j3hut-2>li:before{content:"\0025a0  "}.lst-kix_2xmrpn1j3hut-3>li:before{content:"\0025cf  "}ul.lst-kix_2xmrpn1j3hut-1{list-style-type:none}ul.lst-kix_2xmrpn1j3hut-2{list-style-type:none}ul.lst-kix_2xmrpn1j3hut-0{list-style-type:none}ul.lst-kix_48svtkx560bn-8{list-style-type:none}.lst-kix_2xmrpn1j3hut-8>li:before{content:"\0025a0  "}ul.lst-kix_48svtkx560bn-7{list-style-type:none}ul.lst-kix_48svtkx560bn-6{list-style-type:none}ul.lst-kix_2xmrpn1j3hut-7{list-style-type:none}.lst-kix_mxf9vopjbzq1-6>li:before{content:"\0025cf  "}ul.lst-kix_48svtkx560bn-5{list-style-type:none}ul.lst-kix_2xmrpn1j3hut-8{list-style-type:none}ul.lst-kix_48svtkx560bn-4{list-style-type:none}ul.lst-kix_2xmrpn1j3hut-5{list-style-type:none}.lst-kix_2xmrpn1j3hut-6>li:before{content:"\0025cf  "}.lst-kix_mxf9vopjbzq1-5>li:before{content:"\0025a0  "}ul.lst-kix_48svtkx560bn-3{list-style-type:none}ul.lst-kix_2xmrpn1j3hut-6{list-style-type:none}ul.lst-kix_48svtkx560bn-2{list-style-type:none}ul.lst-kix_2xmrpn1j3hut-3{list-style-type:none}.lst-kix_2xmrpn1j3hut-7>li:before{content:"\0025cb  "}ul.lst-kix_48svtkx560bn-1{list-style-type:none}ul.lst-kix_2xmrpn1j3hut-4{list-style-type:none}ol{margin:0;padding:0}table td,table th{padding:0}.c15{margin-left:36pt;padding-top:6pt;padding-left:0pt;padding-bottom:0pt;line-height:1.0;orphans:2;widows:2;text-align:left}.c14{margin-left:72pt;padding-top:6pt;padding-left:0pt;padding-bottom:0pt;line-height:1.0;orphans:2;widows:2;text-align:left}.c6{color:#4d004d;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:32pt;font-family:"Courier New";font-style:italic}.c5{padding-top:6pt;padding-bottom:0pt;line-height:1.0;orphans:2;widows:2;text-align:left;height:11pt}.c1{color:#ffffff;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Lato";font-style:normal}.c4{color:#ea9e51;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:18pt;font-family:"Courier New";font-style:normal}.c16{-webkit-text-decoration-skip:none;color:#00d000;font-weight:700;text-decoration:underline;text-decoration-skip-ink:none;font-family:"Courier New"}.c2{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c9{padding-top:6pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c13{-webkit-text-decoration-skip:none;color:#00ff00;font-weight:400;text-decoration:underline;text-decoration-skip-ink:none;font-family:"Courier New"}.c21{padding-top:6pt;padding-bottom:0pt;line-height:1.0;orphans:2;widows:2;text-align:left}.c20{padding-top:5pt;padding-bottom:0pt;line-height:1.0;text-align:left;margin-right:-18pt}.c19{font-size:30pt;font-family:"Courier New";font-style:italic;color:#4d004d;font-weight:400}.c7{text-decoration:none;vertical-align:baseline;font-size:11pt;font-style:normal}.c12{text-decoration:none;vertical-align:baseline;font-size:10pt;font-style:normal}.c3{font-family:"Courier New";color:#ffffff;font-weight:400}.c8{color:#666666;font-weight:400;font-family:"Lato"}.c11{color:#ffffff;font-weight:700;font-family:"Courier New"}.c23{-webkit-text-decoration-skip:none;text-decoration:underline;text-decoration-skip-ink:none}.c18{background-color:#000000;max-width:468pt;padding:72pt 72pt 72pt 72pt}.c0{color:inherit;text-decoration:inherit}.c10{padding:0;margin:0}.c22{font-size:10pt}.c17{height:11pt}.title{padding-top:5pt;color:#f75d5d;font-weight:700;font-size:32pt;padding-bottom:0pt;font-family:"Playfair Display";line-height:1.0;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:10pt;color:#000000;font-weight:700;font-size:12pt;padding-bottom:0pt;font-family:"Lato";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#666666;font-size:11pt;font-family:"Lato"}p{margin:0;color:#666666;font-size:11pt;font-family:"Lato"}h1{padding-top:24pt;color:#f75d5d;font-weight:700;font-size:16pt;padding-bottom:0pt;font-family:"Playfair Display";line-height:1.0;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:10pt;color:#000000;font-weight:700;font-size:12pt;padding-bottom:0pt;font-family:"Playfair Display";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:10pt;color:#000000;font-weight:700;font-size:12pt;padding-bottom:0pt;font-family:"Lato";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:8pt;-webkit-text-decoration-skip:none;color:#666666;text-decoration:underline;font-size:11pt;padding-bottom:0pt;line-height:1.15;page-break-after:avoid;text-decoration-skip-ink:none;font-family:"Trebuchet MS";orphans:2;widows:2;text-align:left}h5{padding-top:8pt;color:#666666;font-size:11pt;padding-bottom:0pt;font-family:"Trebuchet MS";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:8pt;color:#666666;font-size:11pt;padding-bottom:0pt;font-family:"Trebuchet MS";line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}</style></head><body class="c18"><div><p class="c9"><span class="c7 c8">Spooktober 9, 2018</span></p></div><p class="c20 title" id="h.ybnllkz4tdir"><span class="c19">Blockchain &amp; Cryptocurrency Club @ UCSD</span></p><p class="c20 title" id="h.mkmv0qd6ar97"><span class="c4">&gt;First GBM</span></p><p class="c9"><span class="c7 c3">We will have our first General Body Meeting at:</span></p><p class="c9"><span class="c11">Center Hall 207</span><span class="c7 c3">&nbsp;</span></p><p class="c9"><span class="c7 c11">Thursday October 11 </span></p><p class="c9"><span class="c7 c11">830pm-930pm </span></p><p class="c9"><span class="c7 c11">bring a laptop!</span></p><p class="c9"><span class="c3">More info on our </span><span class="c16"><a class="c0" href="https://www.google.com/url?q=https://www.facebook.com/groups/988219401317312/&amp;sa=D&amp;ust=1539149789658000">Facebook page here</a></span><span class="c11">,</span><span class="c7 c3">&nbsp;and make sure to go ahead and follow the page.</span></p><p class="c9"><span class="c7 c11">What it&rsquo;ll be about:</span></p><p class="c9"><span class="c3 c7">Potential Future Projects:</span></p><ul class="c10 lst-kix_2xmrpn1j3hut-0 start"><li class="c15"><span class="c7 c3">Open source projects - let&#39;s contribute! </span></li><li class="c15"><span class="c7 c3">Student lead projects - lets build!</span></li><li class="c15"><span class="c3">Workshops - lets learn more!</span></li></ul><ul class="c10 lst-kix_2xmrpn1j3hut-1 start"><li class="c14"><span class="c3 c22">O</span><span class="c12 c3">verview of Blockchain/Crypto?</span></li><li class="c14"><span class="c3 c12">Go/Rust workshops?</span></li><li class="c14"><span class="c12 c3">Solidity?</span></li></ul><ul class="c10 lst-kix_2xmrpn1j3hut-0"><li class="c15"><span class="c7 c3">Speaking events</span></li></ul><p class="c5"><span class="c7 c3"></span></p><p class="c21"><span class="c7 c3">We want your help with leadership!</span></p><ul class="c10 lst-kix_e6xeke4bda98-0 start"><li class="c15"><span class="c7 c3">Treasurer</span></li><li class="c15"><span class="c7 c3">Industry Outreach</span></li><li class="c15"><span class="c7 c3">Social media/events</span></li><li class="c15"><span class="c7 c3">Design lead</span></li></ul><p class="c5"><span class="c7 c3"></span></p><p class="c9"><span class="c11">Co</span><span class="c7 c11">me and meet some peeps!</span></p><p class="c9 c17"><span class="c1"></span></p><p class="c2"><span class="c4">&gt;Good links for beginners</span></p><p class="c2"><span class="c13"><a class="c0" href="https://www.google.com/url?q=https://blockgeeks.com/guides/what-is-blockchain-technology/&amp;sa=D&amp;ust=1539149789661000">Blockchain tech</a></span><span class="c7 c3">: general overview</span></p><p class="c2"><span class="c13"><a class="c0" href="https://www.google.com/url?q=https://cointelegraph.com/bitcoin-for-beginners/what-are-cryptocurrencies&amp;sa=D&amp;ust=1539149789662000">Cryptocurrency + uses</a></span><span class="c3 c23"><a class="c0" href="https://www.google.com/url?q=https://cointelegraph.com/bitcoin-for-beginners/what-are-cryptocurrencies&amp;sa=D&amp;ust=1539149789662000">:</a></span><span class="c7 c3">&nbsp;why is there no currency native to the internet?</span></p><p class="c2"><span class="c13"><a class="c0" href="https://www.google.com/url?q=https://ipfs.io&amp;sa=D&amp;ust=1539149789662000">IPFS</a></span><span class="c7 c3">: really cool open source project we want to look into</span></p><p class="c2"><span class="c13"><a class="c0" href="https://www.google.com/url?q=https://bitcoin.org/bitcoin.pdf&amp;sa=D&amp;ust=1539149789663000">Bitcoin White Paper</a></span><span class="c3">: The catalyst of all this madness</span></p><div><p class="c9"><span class="c7 c8">This was an automated newsletter we created. If this doesn&#39;t look good, try it through the mail app on your phone or computer! We will continue to try and make the design better!</span></p></div></body></html>>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Blockchain@UCSD</title>
+	<style>
+		/* -------------------------------------
+    GLOBAL
+------------------------------------- */
+		* {
+			margin: 0;
+			font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+			box-sizing: border-box;
+			font-size: 14px;
+		}
+
+		body {
+			-webkit-font-smoothing: antialiased;
+			-webkit-text-size-adjust: none;
+			width: 100% !important;
+			height: 100%;
+			line-height: 1.6em;
+		}
+
+		/* Let's make sure all tables have defaults */
+		table td {
+			vertical-align: top;
+		}
+
+		/* -------------------------------------
+    BODY & CONTAINER
+------------------------------------- */
+		body {
+			background-color: #f6f6f6;
+		}
+
+		.body-wrap {
+			background-color: #f6f6f6;
+			width: 100%;
+		}
+
+		.container {
+			display: block !important;
+			max-width: 600px !important;
+			margin: 0 auto !important;
+			/* makes it centered */
+			clear: both !important;
+		}
+
+		.content {
+			max-width: 600px;
+			margin: 0 auto;
+			display: block;
+			padding: 20px;
+		}
+
+		/* -------------------------------------
+    HEADER, FOOTER, MAIN
+------------------------------------- */
+		.main {
+			background-color: #181818;
+			color: #ffffff;
+			border: 1px solid #e9e9e9;
+			border-radius: 6px;
+		}
+
+		.content-wrap {
+			padding: 20px;
+		}
+
+		.content-block {
+			padding: 0 0 20px;
+		}
+
+		.header {
+			width: 100%;
+			margin-bottom: 20px;
+		}
+
+		/* -------------------------------------
+    TYPOGRAPHY
+------------------------------------- */
+
+		h1,
+		h2,
+		h3,
+		p,
+		a,
+		body {
+			color: #ffffff;
+		}
+
+		h1,
+		h2,
+		h3 {
+			font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+			margin: 40px 0 0;
+			line-height: 1.2em;
+			font-weight: 400;
+		}
+
+		h1 {
+			font-size: 32px;
+			font-weight: 500;
+			/* 1.2em * 32px = 38.4px, use px to get airier line-height also in Thunderbird, and Yahoo!, Outlook.com, AOL webmail clients */
+			/*line-height: 38px;*/
+		}
+
+		h2 {
+			font-size: 24px;
+			/* 1.2em * 24px = 28.8px, use px to get airier line-height also in Thunderbird, and Yahoo!, Outlook.com, AOL webmail clients */
+			/*line-height: 29px;*/
+		}
+
+		h3 {
+			font-size: 18px;
+			/* 1.2em * 18px = 21.6px, use px to get airier line-height also in Thunderbird, and Yahoo!, Outlook.com, AOL webmail clients */
+			/*line-height: 22px;*/
+		}
+
+		h4 {
+			font-size: 14px;
+			font-weight: 600;
+		}
+
+		p,
+		ul,
+		ol {
+			margin-bottom: 10px;
+			font-weight: normal;
+		}
+
+		p li,
+		ul li,
+		ol li {
+			margin-left: 5px;
+			list-style-position: inside;
+		}
+
+		/* -------------------------------------
+    LINKS & BUTTONS
+------------------------------------- */
+
+		.fake {
+			width: 12px;
+			height: 12px;
+			background: #000;
+			border-radius: 50%;
+			display: inline-block;
+			margin: 0 3px;
+		}
+
+		a {
+			color: #348eda;
+			text-decoration: underline;
+		}
+
+		.btn-primary {
+			text-decoration: none;
+			color: #ffffff;
+			background-color: #348eda;
+			border: solid #348eda;
+			border-width: 10px 20px;
+			line-height: 2em;
+			/* 2em * 14px = 28px, use px to get airier line-height also in Thunderbird, and Yahoo!, Outlook.com, AOL webmail clients */
+			/*line-height: 28px;*/
+			font-weight: bold;
+			text-align: center;
+			cursor: pointer;
+			display: inline-block;
+			border-radius: 5px;
+			text-transform: capitalize;
+		}
+
+		/* -------------------------------------
+    OTHER STYLES THAT MIGHT BE USEFUL
+------------------------------------- */
+		.last {
+			margin-bottom: 0;
+		}
+
+		.first {
+			margin-top: 0;
+		}
+
+		.aligncenter {
+			text-align: center;
+		}
+
+		.alignright {
+			text-align: right;
+		}
+
+		.alignleft {
+			text-align: left;
+		}
+
+		.clear {
+			clear: both;
+		}
+
+		/* -------------------------------------
+    ALERTS
+    Change the class depending on warning email, good email or bad email
+------------------------------------- */
+		.title {
+			font-size: 16px;
+			color: #000;
+			font-weight: 500;
+			padding: 8px;
+			text-align: center;
+			border-radius: 3px 3px 0 0;
+			background-color: #ffffff;
+		}
+
+		.first {
+			background-color: #F4B400;
+		}
+
+		.second {
+			background-color: #0F9D58;
+		}
+
+		.third {
+			background-color: #DB4437;
+		}
+
+		/* -------------------------------------
+    RESPONSIVE AND MOBILE FRIENDLY STYLES
+------------------------------------- */
+		@media only screen and (max-width: 640px) {
+			body {
+				padding: 0 !important;
+			}
+
+			h1,
+			h2,
+			h3,
+			h4 {
+				font-weight: 800 !important;
+				margin: 20px 0 5px !important;
+			}
+
+			h1 {
+				font-size: 22px !important;
+			}
+
+			h2 {
+				font-size: 18px !important;
+			}
+
+			h3 {
+				font-size: 16px !important;
+			}
+
+			.container {
+				padding: 0 !important;
+				width: 100% !important;
+			}
+
+			.content {
+				padding: 0 !important;
+			}
+
+			.content-wrap {
+				padding: 10px !important;
+			}
+
+			.invoice {
+				width: 100% !important;
+			}
+		}
+	</style>
+</head>
+
+<body itemscope itemtype="http://schema.org/EmailMessage">
+
+	<table class="body-wrap">
+		<tr>
+			<td></td>
+			<td class="container" width="600">
+				<div class="content">
+					<table class="main" width="100%" cellpadding="0" cellspacing="0">
+						<tr>
+							<td class="title pbutton">
+								<div class="alignright">
+									<div class="fake first"></div>
+									<div class="fake second"></div>
+									<div class="fake third"></div>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td class="content-wrap">
+								<table width="100%" cellpadding="0" cellspacing="0">
+									<tr>
+										<td class="content-block">
+											Hey everyone!
+										</td>
+									</tr>
+									<tr>
+										<td class="content-block">
+											Hope your Winter Break was refreshing! We will resume our meetings this Thursday, January 17th at 8pm in Torrey Pines Center South. 
+											This is right across the street from the Village at UCSD, and right next to the Sanford Consortium! Information Technology Services (ITS) have granted 
+											us some conference rooms/office space to hold our meetings. The buildings were recently renovated to enable student collaboration and we are truly thrilled and thankful to 
+											be one of the first to utilize it! Once you reach the building the door entrace to the main plaza will be right in front of the shuttle stops, from there make your way to 
+											the third floor (you will only need to go up a single floor), and walk down an open hallway to one of the doors (northwest or northeast entrance). We will be there to let you in!
+											Signs will be placed to help guide you so you don't get lost :).
+										</td>
+									</tr>
+									<tr>
+										<td class="content-block">
+											<ul>
+												<li> We will be getting started with the programming language Rust, and we have some exciting hackathon opportunities to talk about!</li>
+												<li> Make sure to bring your laptop and any interesting news about blockchain/cryptocurrency. Also, bring any ideas for projects you might want to start, or add them to <a href=https://docs.google.com/spreadsheets/d/1n9X3T7Tlksk3YuGIqWxJnIo76K9cHbOoZglxcv5GmSk/edit?usp=sharing> <font color="#20C20E"> this</font></a> google doc!</li>
+											</ul>
+										</td>
+									</tr>
+									<tr>
+										<td class="content-block">
+											Cheers,<br>
+											Blockchain@UCSD
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</td>
+			<td></td>
+		</tr>
+	</table>
+
+</body>
+
+</html>
 '''
